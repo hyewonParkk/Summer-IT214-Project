@@ -1,0 +1,7 @@
+[name,price,type,delivery]
+
+[Wendy's,$$,American,true]
+[Applebee's Grill+Bar,$$,American,true]
+[KFC,$,American,ture]
+[Mcdonald's,$,America,true]
+[Charly's.$$,American,true]
